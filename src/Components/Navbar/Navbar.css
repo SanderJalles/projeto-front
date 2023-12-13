@@ -1,0 +1,20 @@
+.home {
+    text-decoration: none;
+    color: white;
+}
+
+.cadastro {
+    text-decoration: none;
+    color: white;
+}
+
+.catalogo {
+    text-decoration: none;
+    color: white;
+
+}
+
+.centralizar {
+    display: flex;
+    gap: 20px;
+}
